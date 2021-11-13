@@ -1,0 +1,16 @@
+{
+    "pullRequestConfig": {
+        "provider": "github",
+        "hostRootUrl": "https://github.com",
+        "sourceRemote": "origin",
+        "sourceOwner": "soboutlook",
+        "sourceRepo": "my-first-gatsby-site",
+        "destRemote": "origin",
+        "destOwner": "soboutlook",
+        "destRepo": "my-first-gatsby-site",
+        "destProjectId": "",
+        "destBranch": "main",
+        "custom": null
+    },
+    "exportedAt": 1636805267914
+}
